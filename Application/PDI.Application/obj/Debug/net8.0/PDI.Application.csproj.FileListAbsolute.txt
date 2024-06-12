@@ -1,0 +1,17 @@
+C:\dev\projects\Portifolio de Investimento\Application\PDI.Application\bin\Debug\net8.0\PDI.Application.deps.json
+C:\dev\projects\Portifolio de Investimento\Application\PDI.Application\bin\Debug\net8.0\PDI.Application.dll
+C:\dev\projects\Portifolio de Investimento\Application\PDI.Application\bin\Debug\net8.0\PDI.Application.pdb
+C:\dev\projects\Portifolio de Investimento\Application\PDI.Application\bin\Debug\net8.0\PDI.Domain.dll
+C:\dev\projects\Portifolio de Investimento\Application\PDI.Application\bin\Debug\net8.0\PDI.Infrastructure.Data.dll
+C:\dev\projects\Portifolio de Investimento\Application\PDI.Application\bin\Debug\net8.0\PDI.Domain.pdb
+C:\dev\projects\Portifolio de Investimento\Application\PDI.Application\bin\Debug\net8.0\PDI.Infrastructure.Data.pdb
+C:\dev\projects\Portifolio de Investimento\Application\PDI.Application\obj\Debug\net8.0\PDI.Application.csproj.AssemblyReference.cache
+C:\dev\projects\Portifolio de Investimento\Application\PDI.Application\obj\Debug\net8.0\PDI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\projects\Portifolio de Investimento\Application\PDI.Application\obj\Debug\net8.0\PDI.Application.AssemblyInfoInputs.cache
+C:\dev\projects\Portifolio de Investimento\Application\PDI.Application\obj\Debug\net8.0\PDI.Application.AssemblyInfo.cs
+C:\dev\projects\Portifolio de Investimento\Application\PDI.Application\obj\Debug\net8.0\PDI.Application.csproj.CoreCompileInputs.cache
+C:\dev\projects\Portifolio de Investimento\Application\PDI.Application\obj\Debug\net8.0\PDI.Appl.448A6689.Up2Date
+C:\dev\projects\Portifolio de Investimento\Application\PDI.Application\obj\Debug\net8.0\PDI.Application.dll
+C:\dev\projects\Portifolio de Investimento\Application\PDI.Application\obj\Debug\net8.0\refint\PDI.Application.dll
+C:\dev\projects\Portifolio de Investimento\Application\PDI.Application\obj\Debug\net8.0\PDI.Application.pdb
+C:\dev\projects\Portifolio de Investimento\Application\PDI.Application\obj\Debug\net8.0\ref\PDI.Application.dll

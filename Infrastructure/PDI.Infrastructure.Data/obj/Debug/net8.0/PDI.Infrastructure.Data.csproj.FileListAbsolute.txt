@@ -1,0 +1,15 @@
+C:\dev\projects\Portifolio de Investimento\Infrastructure\PDI.Infrastructure.Data\bin\Debug\net8.0\PDI.Infrastructure.Data.deps.json
+C:\dev\projects\Portifolio de Investimento\Infrastructure\PDI.Infrastructure.Data\bin\Debug\net8.0\PDI.Infrastructure.Data.dll
+C:\dev\projects\Portifolio de Investimento\Infrastructure\PDI.Infrastructure.Data\bin\Debug\net8.0\PDI.Infrastructure.Data.pdb
+C:\dev\projects\Portifolio de Investimento\Infrastructure\PDI.Infrastructure.Data\bin\Debug\net8.0\PDI.Domain.dll
+C:\dev\projects\Portifolio de Investimento\Infrastructure\PDI.Infrastructure.Data\bin\Debug\net8.0\PDI.Domain.pdb
+C:\dev\projects\Portifolio de Investimento\Infrastructure\PDI.Infrastructure.Data\obj\Debug\net8.0\PDI.Infrastructure.Data.csproj.AssemblyReference.cache
+C:\dev\projects\Portifolio de Investimento\Infrastructure\PDI.Infrastructure.Data\obj\Debug\net8.0\PDI.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\projects\Portifolio de Investimento\Infrastructure\PDI.Infrastructure.Data\obj\Debug\net8.0\PDI.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\dev\projects\Portifolio de Investimento\Infrastructure\PDI.Infrastructure.Data\obj\Debug\net8.0\PDI.Infrastructure.Data.AssemblyInfo.cs
+C:\dev\projects\Portifolio de Investimento\Infrastructure\PDI.Infrastructure.Data\obj\Debug\net8.0\PDI.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\dev\projects\Portifolio de Investimento\Infrastructure\PDI.Infrastructure.Data\obj\Debug\net8.0\PDI.Infr.88811FFD.Up2Date
+C:\dev\projects\Portifolio de Investimento\Infrastructure\PDI.Infrastructure.Data\obj\Debug\net8.0\PDI.Infrastructure.Data.dll
+C:\dev\projects\Portifolio de Investimento\Infrastructure\PDI.Infrastructure.Data\obj\Debug\net8.0\refint\PDI.Infrastructure.Data.dll
+C:\dev\projects\Portifolio de Investimento\Infrastructure\PDI.Infrastructure.Data\obj\Debug\net8.0\PDI.Infrastructure.Data.pdb
+C:\dev\projects\Portifolio de Investimento\Infrastructure\PDI.Infrastructure.Data\obj\Debug\net8.0\ref\PDI.Infrastructure.Data.dll

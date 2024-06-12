@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "C8cEDsDMGB6kl3fD2a1lMuEVEW5VWfq5u1GV4oGu+iE=",
+  "Source": "PDI.WebApi",
+  "BasePath": "_content/PDI.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

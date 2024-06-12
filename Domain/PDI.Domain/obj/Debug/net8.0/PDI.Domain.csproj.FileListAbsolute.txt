@@ -1,0 +1,11 @@
+C:\dev\projects\Portifolio de Investimento\Domain\PDI.Domain\bin\Debug\net8.0\PDI.Domain.deps.json
+C:\dev\projects\Portifolio de Investimento\Domain\PDI.Domain\bin\Debug\net8.0\PDI.Domain.dll
+C:\dev\projects\Portifolio de Investimento\Domain\PDI.Domain\bin\Debug\net8.0\PDI.Domain.pdb
+C:\dev\projects\Portifolio de Investimento\Domain\PDI.Domain\obj\Debug\net8.0\PDI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\projects\Portifolio de Investimento\Domain\PDI.Domain\obj\Debug\net8.0\PDI.Domain.AssemblyInfoInputs.cache
+C:\dev\projects\Portifolio de Investimento\Domain\PDI.Domain\obj\Debug\net8.0\PDI.Domain.AssemblyInfo.cs
+C:\dev\projects\Portifolio de Investimento\Domain\PDI.Domain\obj\Debug\net8.0\PDI.Domain.csproj.CoreCompileInputs.cache
+C:\dev\projects\Portifolio de Investimento\Domain\PDI.Domain\obj\Debug\net8.0\PDI.Domain.dll
+C:\dev\projects\Portifolio de Investimento\Domain\PDI.Domain\obj\Debug\net8.0\refint\PDI.Domain.dll
+C:\dev\projects\Portifolio de Investimento\Domain\PDI.Domain\obj\Debug\net8.0\PDI.Domain.pdb
+C:\dev\projects\Portifolio de Investimento\Domain\PDI.Domain\obj\Debug\net8.0\ref\PDI.Domain.dll
